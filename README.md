@@ -17,3 +17,4 @@ List of Exle Improvement Proposals
 | Number | Title |
 | ---  | ---  |
 | [ExIP-0001](exip-0001.md) | Single Lender Loan Boxes |
+| [ExIP-0002](exip-0002.md) | Lenders Pool |
